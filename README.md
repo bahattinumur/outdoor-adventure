@@ -4,7 +4,11 @@ This website is a web front-end for an outdoor activities organization. This org
 
 <h2> Software Languages </h2>
 
-I made it using HTML, CSS, and SCSS.
+- HTML
+
+- CSS
+
+- SCSS
 
 <h2> Screen Gif </h2>
 
